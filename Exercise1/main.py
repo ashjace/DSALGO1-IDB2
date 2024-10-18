@@ -19,7 +19,7 @@ for x in range (1,11):
 
 '''
 
-
+'''
 #Exercise3
 
 number = int(input("Enter a number: "))
@@ -28,3 +28,5 @@ factors = [i for i in range(1, number + 1)
 
 print("Factors:", factors)
 print("Number of factors:", len(factors))
+'''
+
